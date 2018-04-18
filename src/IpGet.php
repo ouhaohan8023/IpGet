@@ -1,4 +1,5 @@
 <?php
+namespace oscarhan\IpGet; 
 /** 
  * IP 地理位置查询类 
  */  

@@ -1,5 +1,6 @@
 {
     "name": "oscarhan/ip-get",
+    "description": "基于qqwry.bat的IP地址获取"
     "type": "lib",
     "license": "MIT",
     "authors": [
