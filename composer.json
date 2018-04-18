@@ -1,0 +1,18 @@
+{
+    "name": "oscar/ip-get",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oscar",
+            "email": "mrmercury@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Oscar\\IpGet\\": "src/"
+        }
+  }
+}
