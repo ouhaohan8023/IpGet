@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-          "Oscar\\IpGet\\": "src/"
+          "oscar\\ipget\\": "src/"
         }
   }
 }
